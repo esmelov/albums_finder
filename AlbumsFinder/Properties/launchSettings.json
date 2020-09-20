@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AlbumsFinder": {
+      "commandName": "Project",
+      "commandLineArgs": "-a \"Lamb of God\""
+    }
+  }
+}

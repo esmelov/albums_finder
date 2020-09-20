@@ -1,0 +1,16 @@
+D:\repos\AlbumsFinder\ITunesContracts\bin\Debug\netcoreapp3.1\ITunes.Contracts.deps.json
+D:\repos\AlbumsFinder\ITunesContracts\bin\Debug\netcoreapp3.1\ITunes.Contracts.dll
+D:\repos\AlbumsFinder\ITunesContracts\bin\Debug\netcoreapp3.1\ITunes.Contracts.pdb
+D:\repos\AlbumsFinder\ITunesContracts\obj\Debug\netcoreapp3.1\ITunes.Contracts.AssemblyInfoInputs.cache
+D:\repos\AlbumsFinder\ITunesContracts\obj\Debug\netcoreapp3.1\ITunes.Contracts.AssemblyInfo.cs
+D:\repos\AlbumsFinder\ITunesContracts\obj\Debug\netcoreapp3.1\ITunes.Contracts.csproj.CoreCompileInputs.cache
+D:\repos\AlbumsFinder\ITunesContracts\obj\Debug\netcoreapp3.1\ITunes.Contracts.dll
+D:\repos\AlbumsFinder\ITunesContracts\obj\Debug\netcoreapp3.1\ITunes.Contracts.pdb
+D:\repos\AlbumsFinder\ITunes.Contracts\bin\Debug\netcoreapp3.1\ITunes.Contracts.deps.json
+D:\repos\AlbumsFinder\ITunes.Contracts\bin\Debug\netcoreapp3.1\ITunes.Contracts.dll
+D:\repos\AlbumsFinder\ITunes.Contracts\bin\Debug\netcoreapp3.1\ITunes.Contracts.pdb
+D:\repos\AlbumsFinder\ITunes.Contracts\obj\Debug\netcoreapp3.1\ITunes.Contracts.AssemblyInfoInputs.cache
+D:\repos\AlbumsFinder\ITunes.Contracts\obj\Debug\netcoreapp3.1\ITunes.Contracts.AssemblyInfo.cs
+D:\repos\AlbumsFinder\ITunes.Contracts\obj\Debug\netcoreapp3.1\ITunes.Contracts.csproj.CoreCompileInputs.cache
+D:\repos\AlbumsFinder\ITunes.Contracts\obj\Debug\netcoreapp3.1\ITunes.Contracts.dll
+D:\repos\AlbumsFinder\ITunes.Contracts\obj\Debug\netcoreapp3.1\ITunes.Contracts.pdb

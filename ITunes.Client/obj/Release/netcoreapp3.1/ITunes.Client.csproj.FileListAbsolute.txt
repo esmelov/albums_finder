@@ -1,0 +1,12 @@
+D:\repos\AlbumsFinder\ITunes.Client\bin\Release\netcoreapp3.1\ITunes.Client.deps.json
+D:\repos\AlbumsFinder\ITunes.Client\bin\Release\netcoreapp3.1\ITunes.Client.dll
+D:\repos\AlbumsFinder\ITunes.Client\bin\Release\netcoreapp3.1\ITunes.Client.pdb
+D:\repos\AlbumsFinder\ITunes.Client\bin\Release\netcoreapp3.1\ITunes.Contracts.dll
+D:\repos\AlbumsFinder\ITunes.Client\bin\Release\netcoreapp3.1\ITunes.Contracts.pdb
+D:\repos\AlbumsFinder\ITunes.Client\obj\Release\netcoreapp3.1\ITunes.Client.csprojAssemblyReference.cache
+D:\repos\AlbumsFinder\ITunes.Client\obj\Release\netcoreapp3.1\ITunes.Client.AssemblyInfoInputs.cache
+D:\repos\AlbumsFinder\ITunes.Client\obj\Release\netcoreapp3.1\ITunes.Client.AssemblyInfo.cs
+D:\repos\AlbumsFinder\ITunes.Client\obj\Release\netcoreapp3.1\ITunes.Client.csproj.CoreCompileInputs.cache
+D:\repos\AlbumsFinder\ITunes.Client\obj\Release\netcoreapp3.1\ITunes.Client.csproj.CopyComplete
+D:\repos\AlbumsFinder\ITunes.Client\obj\Release\netcoreapp3.1\ITunes.Client.dll
+D:\repos\AlbumsFinder\ITunes.Client\obj\Release\netcoreapp3.1\ITunes.Client.pdb
