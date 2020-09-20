@@ -59,7 +59,7 @@ namespace ITunes.Client.Extensions
         /// <returns></returns>
         public static Task<Response<AlbumResponse>> GetAlbums(this ITunesClient client, string artist,
             int limit = 0, string country = null, string lang = null, CancellationToken cancellationToken = default)
-            => client.GetMusicEntity<AlbumResponse>(MusicEntity.Album, artist, null, limit, country, lang, cancellationToken);
+            => client.GetMusicEntity<AlbumResponse>(MusicEntity.Album, artist, MusicAttribute.ArtistTerm, limit, country, lang, cancellationToken);
 
         /// <summary>
         /// Find Music Video

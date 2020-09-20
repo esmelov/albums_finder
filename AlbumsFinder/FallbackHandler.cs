@@ -2,13 +2,15 @@
 using System;
 using System.Net.Http;
 using System.Net.Sockets;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
+[assembly: InternalsVisibleTo("AlbumFinder.Tests.Unit")]
 namespace AlbumsFinder
 {
-    public class Cache
+    public class Cache : IEquatable<Cache>
     {
         [BsonCtor]
         public Cache(string key, string value)
@@ -21,9 +23,30 @@ namespace AlbumsFinder
         public string Key { get; }
 
         public string Value { get; }
+
+        public bool Equals(Cache other)
+        {
+            if (ReferenceEquals(this, other))
+            {
+                return true;
+            }
+
+            return other != null
+                && Key == other.Key
+                && Value == other.Value;
+        }
+
+        public override bool Equals(object obj)
+            => Equals(obj as Cache);
+
+        public override int GetHashCode()
+            => HashCode.Combine(Key, Value);
+
+        public override string ToString()
+            => Key;
     }
 
-    public class FallbackHandler : HttpClientHandler
+    internal class FallbackHandler : HttpClientHandler
     {
         private readonly ILiteCollection<Cache> _cache;
 
